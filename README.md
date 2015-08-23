@@ -20,18 +20,18 @@ Beginner class for grades K-2
 5. Computers are all around us - smartphones, cars, tablets, laptops, thermostats, microwaves, traffic lights and more! (ref http://www.bbc.co.uk/guides/zc4x6sg)
 
 ## Concepts and commands
-1. Moving a character across the screen
+1. Moving a character across the screen - activity: giving instructions to "computer" (teacher or partner)
 2. Record a sound and make the sprite speak
 3. Use green flag to start commands
 4. Use tap event to start commands
 5. Turning in circles using rotation
 6. Respond to a bump by doing something
-7. Send and receive messages
-8. Repeat forever
+7. Send and receive messages - activity: mail delivery
+8. Repeat forever - activity: dance party
 9. Repeat a fixed number of times
 
 ## Algorithms and challenges
 1. Flashing/blinking using show/hide
 2. Wiggling by using rotate back and forth
-3. Two sprites start at the same time using green flag
+3. Two sprites start at the same time using green flag - activity: crazy race
 4. 
