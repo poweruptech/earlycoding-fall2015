@@ -19,7 +19,16 @@ Beginner class for grades K-2
 4. Computers are really dumb - they only do exactly what you tell them, no skipping or adding steps, no changing order
 5. Computers are all around us - smartphones, cars, tablets, laptops, thermostats, microwaves, traffic lights and more! (ref http://www.bbc.co.uk/guides/zc4x6sg)
 
-## Concepts and commands
+## Computer Science Concepts 
+1. Sequence
+2. Single step instruction
+3. Pattern recognition
+4. Repetition
+5. Event
+6. Message
+7. Encapsulation (each sprite has its own code)
+
+## Commands
 1. Moving a character across the screen - activity: giving instructions to "computer" (teacher or partner)
 2. Record a sound and make the sprite speak
 3. Use green flag to start commands
@@ -35,3 +44,10 @@ Beginner class for grades K-2
 2. Wiggling by using rotate back and forth
 3. Two sprites start at the same time using green flag - activity: crazy race
 4. 
+
+## Unplugged activities
+1. Giving instructions to a human "robot"
+2. Dance party
+3. Mail delivery
+4. Pattern recognition
+5. Storytelling
